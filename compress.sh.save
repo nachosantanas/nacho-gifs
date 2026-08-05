@@ -1,0 +1,4 @@
+chmod +x compress.sh
+./compress.sh
+
+
